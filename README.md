@@ -6,4 +6,6 @@ The aim is shooting evil aliens without hitting the good aliens as possible.</h4
 
 https://user-images.githubusercontent.com/60623941/219965598-9bcc5260-7748-4009-aa45-2c55b2a69b71.mp4
 <br>
-![AlienGame1](https://user-images.githubusercontent.com/60623941/219965642-1591b516-6695-4e54-a3fc-f9fbcad1ebd8.PNG)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/60623941/219965642-1591b516-6695-4e54-a3fc-f9fbcad1ebd8.PNG" alt="screenshot from the project"/>
+</p>
